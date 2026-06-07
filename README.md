@@ -1,21 +1,21 @@
 🏆 Achievements
 
-🥇 Top 5 Teams — AI Text Detector, C Programming Hackathon (RVCE)
-🏅 Top 49 Teams — IEEE Overnight Hackathon (Data Privacy)
-🤖 Scaler OpenEnv AI Benchmark Hackathon — RL Environment Design
+Top 5 Teams - AI Text Detector, C Programming Hackathon (RVCE)
+Top 49 Teams - IEEE Overnight Hackathon (Data Privacy)
+Scaler OpenEnv AI Benchmark Hackathon - RL Environment Design
 
 
 🔭 What I'm Building
 
-🔐 AI Fraud Detection System - ML-based anomaly detection in Python
-🛡️ Data Privacy App - Fully offline, locally hosted (IEEE Hackathon)
-🤖 AI Text Detector - C & Python interface, Top 5 RVCE Hackathon
+AI Fraud Detection System - ML-based anomaly detection in Python
+Data Privacy Application - Fully offline, locally hosted (IEEE Hackathon)
+AI Text Detector - C & Python interface, Top 5 RVCE Hackathon
 
 📌 Featured Projects
 ProjectTechHighlightAI Fraud DetectionPython,
 MLAnomaly detection systemAI Text Detector C,
-PythonTop 5 — RVCE HackathonGhostTrace,
-Data PrivacyPythonIEEE Hackathon — Top 49,
+PythonTop 5 - RVCE HackathonGhostTrace,
+Data PrivacyPythonIEEE Hackathon - Top 49,
 Warehouse Simulation RLPythonScaler OpenEnv AI Hackathon
 
 Let's Connect
