@@ -1,16 +1,24 @@
-## Hi there 👋
+🏆 Achievements
 
-<!--
-**Preet1209/Preet1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥇 Top 5 Teams — AI Text Detector, C Programming Hackathon (RVCE)
+🏅 Top 49 Teams — IEEE Overnight Hackathon (Data Privacy)
+🤖 Scaler OpenEnv AI Benchmark Hackathon — RL Environment Design
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I'm Building
+
+🔐 AI Fraud Detection System - ML-based anomaly detection in Python
+🛡️ Data Privacy App - Fully offline, locally hosted (IEEE Hackathon)
+🤖 AI Text Detector - C & Python interface, Top 5 RVCE Hackathon
+
+📌 Featured Projects
+ProjectTechHighlightAI Fraud DetectionPython,
+MLAnomaly detection systemAI Text Detector C,
+PythonTop 5 — RVCE HackathonGhostTrace,
+Data PrivacyPythonIEEE Hackathon — Top 49,
+Warehouse Simulation RLPythonScaler OpenEnv AI Hackathon
+
+Let's Connect
+
+https://www.linkedin.com/in/preet-patel-947890360?utm_source=share_via&utm_content=profile&utm_medium=member_android
+📍 Bangalore, India
