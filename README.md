@@ -12,7 +12,7 @@ Data Privacy Application - Fully offline, locally hosted (IEEE Hackathon)
 AI Text Detector - C & Python interface, Top 5 RVCE Hackathon
 
 📌 Featured Projects
-ProjectTechHighlightAI Fraud DetectionPython,
+AI Fraud DetectionPython,
 MLAnomaly detection systemAI Text Detector C,
 PythonTop 5 - RVCE HackathonGhostTrace,
 Data PrivacyPythonIEEE Hackathon - Top 49,
